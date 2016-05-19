@@ -29,8 +29,7 @@ import org.jbox2d.dynamics.World;
 import org.jbox2d.dynamics.joints.DistanceJoint;
 import org.jbox2d.dynamics.joints.DistanceJointDef;
 
-//comentário de teste
-//bora lá openshift!
+
 
 
 //Box2D (JBox2D)
